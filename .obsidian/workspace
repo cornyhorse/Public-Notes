@@ -7,8 +7,12 @@
         "id": "6b10e2a170432fb3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Test Note.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,7 @@
     "collapsed": true
   },
   "active": "6b10e2a170432fb3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Test Note.md"
+  ]
 }
